@@ -1,0 +1,3 @@
+{:require  [htt-play-game.core]
+ :init-fns []
+ :compiler-options {:infer-externs true}}
